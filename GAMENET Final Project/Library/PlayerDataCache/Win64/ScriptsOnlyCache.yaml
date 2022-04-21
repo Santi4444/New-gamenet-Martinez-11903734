@@ -269,7 +269,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4710}
     - Class: 114
-      Script: {instanceID: 16944}
+      Script: {instanceID: 17588}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1677,5 +1677,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/LobbyScene.unity
   - Assets/Scenes/FallingScene.unity
-  playerPath: D:/BENILDE/ONLINE CLASSES TERM 5/GAMENET/Modules/GAMENET Final Project/Temp
-    Builds/GAMENET Final Project.exe
+  playerPath: D:/BENILDE/ONLINE CLASSES TERM 5/GAMENET/Final Project Build/GAMENET
+    Final Project.exe
